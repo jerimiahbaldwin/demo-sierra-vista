@@ -5,6 +5,7 @@
     </header>
     <main>
       <p>{{ message }}</p>
+      <p class="deployment-info">🚀 Deployed via GitHub Actions CI/CD</p>
       <button @click="incrementCounter">Clicked {{ counter }} times</button>
     </main>
   </div>
@@ -53,6 +54,13 @@ main {
 p {
   font-size: 1.2rem;
   margin-bottom: 1.5rem;
+}
+
+.deployment-info {
+  font-size: 0.9rem;
+  color: #666;
+  font-style: italic;
+  margin-bottom: 2rem;
 }
 
 button {

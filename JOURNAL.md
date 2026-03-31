@@ -23,3 +23,4 @@
 - **Step 15**: Added route aliases in router to handle legacy .html URLs (e.g., /gallery.html → /gallery) ensuring all backlinks from original sierravistaplumbing.com site continue to work without 404 errors, preserving existing SEO value and search engine rankings (March 30, 2026)
 - **Step 16**: Created URL_MAPPING.md documentation listing all 17 preserved URLs with their route mappings, aliases, and SEO preservation strategy for reference and verification (March 30, 2026)
 - **Step 17**: Restored full homepage design to src/views/Home.vue (hero section, stats, services grid, about section, CTA, contact form) after router refactoring had replaced it with placeholder content (March 30, 2026)
+- **Step 18**: Moved .instructions.md to .github/ directory for better discoverability and committed with conventional commit message (March 30, 2026)

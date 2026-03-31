@@ -1,0 +1,11 @@
+# Robots.txt for Sierra Vista HVAC Services
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://d2gpxm7g9jp1jd.cloudfront.net/sitemap.xml
+
+# Disallow admin or private paths (add if needed)
+# Disallow: /admin/
+# Disallow: /private/

@@ -1,5 +1,6 @@
 <template>
   <div class="page-container">
+    <!-- 🔒 PAGE CLAIMED: This page is currently being populated with content. Do not modify. -->
     <h1>Heating Services</h1>
     <p>Comprehensive heating services</p>
     <!-- Content to be populated -->

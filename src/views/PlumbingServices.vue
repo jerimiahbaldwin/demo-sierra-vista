@@ -1,3 +1,4 @@
+<!-- 🔒 PAGE CLAIMED - Currently being developed by AI agent -->
 <template>
   <div class="page-container">
     <h1>Plumbing Services</h1>

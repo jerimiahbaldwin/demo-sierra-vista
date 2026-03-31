@@ -6,7 +6,8 @@
 <template>
   <div class="duct-cleaning-page">
     <!-- Hero Section -->
-    <section class="hero-section" :style="{ backgroundImage: `url(/download/files/shutterstock/2024/04/shutterstock_1122500891_1712000690_e1684083920b7e1f47254466fef9260743.jpg)` }">
+    <section class="hero-section"
+      :style="{ backgroundImage: `url(/download/files/shutterstock/2024/04/shutterstock_1122500891_1712000690_e1684083920b7e1f47254466fef9260743.jpg)` }">
       <div class="hero-overlay"></div>
       <div class="container">
         <div class="hero-content">
@@ -22,7 +23,10 @@
       <div class="container">
         <div class="intro-content">
           <h2>Professional Duct Cleaning Services</h2>
-          <p class="lead">Dusty, debris-filled ducts can cause all kinds of issues from rising energy bills to chronic health problems. If you're looking for a duct cleaning specialist in Sierra Vista, AZ, turn to Sierra Vista Plumbing, Inc. We offer high-quality duct cleaning services. You can trust us to clear out anything that's preventing clean air from flowing through your ducts properly.</p>
+          <p class="lead">Dusty, debris-filled ducts can cause all kinds of issues from rising energy bills to chronic
+            health problems. If you're looking for a duct cleaning specialist in Sierra Vista, AZ, turn to Sierra Vista
+            Plumbing, Inc. We offer high-quality duct cleaning services. You can trust us to clear out anything that's
+            preventing clean air from flowing through your ducts properly.</p>
           <router-link to="/contact" class="btn btn-secondary">Get In Touch With Us</router-link>
         </div>
       </div>
@@ -33,13 +37,15 @@
       <div class="container">
         <div class="section-header">
           <h2>Discover The Benefits Of Cleaning Out Your Air Ducts</h2>
-          <p>Nobody wants to breathe in air that's coming out of filthy ducts. Fortunately, you can depend on us to cover all your duct cleaning needs.</p>
+          <p>Nobody wants to breathe in air that's coming out of filthy ducts. Fortunately, you can depend on us to
+            cover all your duct cleaning needs.</p>
         </div>
         <div class="benefits-grid">
           <div class="benefit-card">
             <div class="benefit-icon">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
               </svg>
             </div>
             <h3>Clean Living Environment</h3>
@@ -48,7 +54,8 @@
           <div class="benefit-card">
             <div class="benefit-icon">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
             </div>
             <h3>Remove Allergens</h3>
@@ -57,7 +64,8 @@
           <div class="benefit-card">
             <div class="benefit-icon">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
               </svg>
             </div>
             <h3>Reduce Respiratory Symptoms</h3>
@@ -92,13 +100,8 @@
             </ul>
           </div>
           <div class="service-areas-map">
-            <iframe 
-              src="https://www.google.com/maps/d/embed?mid=1DhEpFEog4WlGWnUYPf9svdSSQFZs3YUb" 
-              width="100%" 
-              height="480"
-              style="border:0;"
-              loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade">
+            <iframe src="https://www.google.com/maps/d/embed?mid=1DhEpFEog4WlGWnUYPf9svdSSQFZs3YUb" width="100%"
+              height="480" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
             </iframe>
           </div>
         </div>

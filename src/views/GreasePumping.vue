@@ -4,10 +4,9 @@
     <!-- Hero Section -->
     <section class="hero-section">
       <div class="hero-image">
-        <img 
-          src="/download/files/shutterstock/2024/04/shutterstock_19275685_1712001608_e1162418837440b9493b69737dd2930955.jpg" 
-          alt="Professional commercial grease trap pumping service"
-        />
+        <img
+          src="/download/files/shutterstock/2024/04/shutterstock_19275685_1712001608_e1162418837440b9493b69737dd2930955.jpg"
+          alt="Professional commercial grease trap pumping service" />
         <div class="hero-overlay">
           <div class="hero-content">
             <h1>Is Your Grease Trap Filled to the Brim?</h1>
@@ -23,8 +22,8 @@
       <div class="container">
         <div class="intro-content">
           <p class="lead">
-            It doesn't have to be a hassle to empty your restaurant's grease trap. For reliable grease pumping services, 
-            depend on Sierra Vista Plumbing, Inc. We have experience pumping out grease traps for restaurants throughout 
+            It doesn't have to be a hassle to empty your restaurant's grease trap. For reliable grease pumping services,
+            depend on Sierra Vista Plumbing, Inc. We have experience pumping out grease traps for restaurants throughout
             the Sierra Vista, AZ area. We can get rid of any solid and liquid waste caught in your grease trap.
           </p>
           <p class="cta-text">
@@ -39,7 +38,8 @@
       <div class="container">
         <div class="section-header">
           <h2>Don't Wait to Clear Out Your Full Grease Trap</h2>
-          <p>Getting grease trap pumping services is an important part of maintaining a safe environment in your restaurant.</p>
+          <p>Getting grease trap pumping services is an important part of maintaining a safe environment in your
+            restaurant.</p>
         </div>
 
         <div class="reasons-grid">
@@ -400,30 +400,30 @@ useSeo({
   .hero-section {
     height: 450px;
   }
-  
+
   .hero-content h1 {
     font-size: 2.2rem;
   }
-  
+
   .hero-content h2 {
     font-size: 1.2rem;
   }
-  
+
   .section-header h2,
   .benefits-section h2,
   .cta-section h2 {
     font-size: 2rem;
   }
-  
+
   .reasons-grid {
     grid-template-columns: 1fr;
   }
-  
+
   .benefit-item {
     flex-direction: column;
     text-align: center;
   }
-  
+
   .benefit-icon {
     margin-right: 0;
     margin-bottom: 1rem;
@@ -434,7 +434,7 @@ useSeo({
   .hero-content h1 {
     font-size: 1.8rem;
   }
-  
+
   .intro-section,
   .importance-section,
   .benefits-section,

@@ -22,11 +22,15 @@
         <div class="content-grid">
           <div class="content-text">
             <h2>Expert Heating Repair Services</h2>
-            <p>Your heater works every year to keep your entire house warm. Like anything else in your home, it will wear out over time. Call Sierra Vista Plumbing, Inc. when your heater breaks down. We provide heating repair services in Sierra Vista, AZ. We'll send out a skilled HVAC contractor to find the problem with your heater and get it fixed quickly.</p>
+            <p>Your heater works every year to keep your entire house warm. Like anything else in your home, it will
+              wear out over time. Call Sierra Vista Plumbing, Inc. when your heater breaks down. We provide heating
+              repair services in Sierra Vista, AZ. We'll send out a skilled HVAC contractor to find the problem with
+              your heater and get it fixed quickly.</p>
             <p><strong>Contact us now for heating repair in Sierra Vista, Arizona.</strong></p>
           </div>
           <div class="content-image">
-            <img src="/download/files/2019/10/bigstock-Heating-Central-Gas-Furnace-Is-310494298.jpg" alt="Heating repair technician working on furnace" />
+            <img src="/download/files/2019/10/bigstock-Heating-Central-Gas-Furnace-Is-310494298.jpg"
+              alt="Heating repair technician working on furnace" />
           </div>
         </div>
       </div>
@@ -36,8 +40,9 @@
     <section class="warning-signs-section">
       <div class="container">
         <h2>Warning Signs to Look For</h2>
-        <p class="section-intro">If you regularly check up on your heater, you can catch problems before they break your unit. You won't have to sit around in the cold waiting for heating repair services.</p>
-        
+        <p class="section-intro">If you regularly check up on your heater, you can catch problems before they break your
+          unit. You won't have to sit around in the cold waiting for heating repair services.</p>
+
         <div class="warning-signs-grid">
           <div class="warning-card">
             <div class="warning-icon">🔥</div>
@@ -62,7 +67,8 @@
         </div>
 
         <div class="early-repair-notice">
-          <p><strong>Scheduling heating repair services early will make the repairs more affordable.</strong> Take care of the problem while it's still small and easy to fix.</p>
+          <p><strong>Scheduling heating repair services early will make the repairs more affordable.</strong> Take care
+            of the problem while it's still small and easy to fix.</p>
         </div>
       </div>
     </section>

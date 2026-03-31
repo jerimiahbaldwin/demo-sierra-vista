@@ -2,13 +2,13 @@
 export const navigationMenu = [
   { path: "/", label: "Home", type: "link" },
   {
-    label: "Heating Services",
+    label: "Heating",
     type: "dropdown",
     items: [
       { path: "/heating-services", label: "Heating Services" },
-      { path: "/heating-installation", label: "Heating Installation" },
-      { path: "/heating-repair", label: "Heating Repair" },
-      { path: "/heating-maintenance", label: "Heating Maintenance" },
+      { path: "/heating-installation", label: "Installation" },
+      { path: "/heating-repair", label: "Repair" },
+      { path: "/heating-maintenance", label: "Maintenance" },
     ],
   },
   {
@@ -17,17 +17,17 @@ export const navigationMenu = [
     items: [
       {
         path: "/air-conditioning-services",
-        label: "Air Conditioning Services",
+        label: "AC Services",
       },
-      { path: "/air-conditioning-installation", label: "AC Installation" },
-      { path: "/air-conditioning-repair", label: "AC Repair" },
+      { path: "/air-conditioning-installation", label: "Installation" },
+      { path: "/air-conditioning-repair", label: "Repair" },
     ],
   },
   {
     label: "Other Services",
     type: "dropdown",
     items: [
-      { path: "/plumbing-services", label: "Plumbing Services" },
+      { path: "/plumbing-services", label: "Plumbing" },
       { path: "/duct-cleaning-services", label: "Duct Cleaning" },
       {
         path: "/dryer-vent-rotobrush-cleaning-services",
@@ -36,10 +36,6 @@ export const navigationMenu = [
       { path: "/grease-pumping-services", label: "Grease Pumping" },
     ],
   },
-  { path: "/gallery", label: "Gallery", type: "link" },
-  { path: "/reviews", label: "Reviews", type: "link" },
-  { path: "/faq", label: "FAQ", type: "link" },
-  { path: "/service-area", label: "Service Area", type: "link" },
   { path: "/contact", label: "Contact", type: "link" },
 ];
 

@@ -54,6 +54,13 @@
         </a>
       </div>
     </section>
+
+    <section class="emergency-banner">
+      <div class="container emergency-content">
+        <h3>24/7 Emergency Service Available</h3>
+        <p>Family Owned and Operated | Call: (520) 417-2105 | Second Office: (520) 559-2534</p>
+      </div>
+    </section>
   </div>
 </template>
 
@@ -108,6 +115,7 @@ const reviews = [
 useSeo({
   title: 'Reviews | Sierra Vista Plumbing, Inc.',
   description: 'Read verified customer reviews for plumbing, heating, and cooling services from Sierra Vista Plumbing, Inc.',
+  image: '/download/files/2019/03/sierra_vista_new.png',
   url: '/reviews'
 })
 </script>
@@ -263,6 +271,23 @@ h1 {
 
 .review-cta-section {
   padding: 0 0 4rem;
+}
+
+.emergency-banner {
+  padding: 1.1rem 0 1.35rem;
+  background: #111827;
+  color: #f9fafb;
+  text-align: center;
+}
+
+.emergency-content h3 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.emergency-content p {
+  margin: 0.35rem 0 0;
+  color: #d1d5db;
 }
 
 .cta-wrap {

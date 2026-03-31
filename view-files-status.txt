@@ -13,5 +13,5 @@ HeatingRepair.vue - populated
 HeatingServices.vue - populated
 Home.vue - populated
 PlumbingServices.vue - populated
-Reviews.vue - CLAIMED by Copilot (populated)
+Reviews.vue - needs content
 ServiceArea.vue - claimed by Copilot (2026-03-30), populated

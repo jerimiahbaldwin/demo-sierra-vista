@@ -2,7 +2,7 @@
   <div>
     <!-- Hero Section -->
     <section class="hero" id="home">
-      <div class="hero-slide active" :style="{ backgroundImage: `url(/download/files/2019/03/1551447792973_bigstock_close_up_view_on_hvac_units_h_229402624.jpg)` }">
+      <div class="hero-slide active" :style="{ backgroundImage: `url(/images/heroes/hvac-units.jpg)` }">
         <div class="hero-overlay"></div>
         <div class="container">
           <div class="hero-content">
@@ -63,12 +63,16 @@
       <div class="container">
         <div class="about-grid">
           <div class="about-image">
-            <img src="/download/files/2019/02/1551296033801_10860843_374375896067761_499326307120328047_o.jpg" alt="Sierra Vista Plumbing Team" />
+            <img src="/images/heroes/team.jpg" alt="Sierra Vista Plumbing Team" />
           </div>
           <div class="about-content">
             <h2>Experience, Quality and Service You Can Trust</h2>
-            <p>When you need a reliable plumber or HVAC service provider, look no further than Sierra Vista Plumbing. With over 30 years of experience in the plumbing and HVAC industries, we strive to provide superior residential and commercial services to the residents of Sierra Vista, AZ.</p>
-            <p>We provide quality heating, cooling and plumbing services for homes, office buildings and other commercial spaces. Whether your heat is not working properly or your drains are clogged, you can make us your on-call plumber and HVAC service provider.</p>
+            <p>When you need a reliable plumber or HVAC service provider, look no further than Sierra Vista Plumbing.
+              With over 30 years of experience in the plumbing and HVAC industries, we strive to provide superior
+              residential and commercial services to the residents of Sierra Vista, AZ.</p>
+            <p>We provide quality heating, cooling and plumbing services for homes, office buildings and other
+              commercial spaces. Whether your heat is not working properly or your drains are clogged, you can make us
+              your on-call plumber and HVAC service provider.</p>
             <ul class="feature-list">
               <li>✓ 30+ Years of Experience</li>
               <li>✓ Licensed & Insured</li>
@@ -84,7 +88,7 @@
     </section>
 
     <!-- CTA Section -->
-    <section class="cta-section" :style="{ backgroundImage: `url(/download/files/2019/02/1551296179350_bigstock_124843106.jpg)` }">
+    <section class="cta-section" :style="{ backgroundImage: `url(/images/heroes/service-area.jpg)` }">
       <div class="cta-overlay"></div>
       <div class="container">
         <div class="cta-content">
@@ -158,7 +162,7 @@ import { useSeo, getOrganizationSchema } from '../composables/useSeo'
 useSeo({
   title: 'Plumber | Sierra Vista, AZ | Sierra Vista Plumbing, Inc.',
   description: 'Sierra Vista Plumbing, Inc. is a plumber in Sierra Vista, AZ. Our services include HVAC services, plumbing services and so much more! Give us a call today! (520) 417-2105',
-  image: '/download/files/2019/03/1551447792973_bigstock_close_up_view_on_hvac_units_h_229402624.jpg',
+  image: '/images/heroes/hvac-units.jpg',
   url: '/',
   schema: getOrganizationSchema()
 })
@@ -173,37 +177,37 @@ const form = ref({
 const services = [
   {
     title: 'Plumbing Services',
-    icon: '/download/files/2019/02/plumbing.png',
+    icon: '/images/icons/plumbing.png',
     description: 'Expert plumbing repairs, installations, and maintenance for residential and commercial properties.',
     link: '/plumbing-services'
   },
   {
     title: 'Heating Services',
-    icon: '/download/files/2019/02/thermometer_4_.png',
+    icon: '/images/icons/thermometer.png',
     description: 'Complete heating system installation, repair, and maintenance to keep you warm all winter.',
     link: '/heating-services'
   },
   {
     title: 'Air Conditioning',
-    icon: '/download/files/2019/02/air_conditioner_1_.png',
+    icon: '/images/icons/air-conditioner.png',
     description: 'Professional AC installation, repair, and maintenance for optimal cooling performance.',
     link: '/air-conditioning-services'
   },
   {
     title: 'Duct Cleaning',
-    icon: '/download/files/2019/02/air_conditioner_1_.png',
+    icon: '/images/icons/air-conditioner.png',
     description: 'Thorough duct cleaning services to improve air quality and system efficiency.',
     link: '/duct-cleaning-services'
   },
   {
     title: 'Water Heaters',
-    icon: '/download/files/2019/02/thermometer_4_.png',
+    icon: '/images/icons/thermometer.png',
     description: 'Water heater repair, replacement, and installation services for reliable hot water.',
     link: '/heating-services'
   },
   {
     title: 'Emergency Service',
-    icon: '/download/files/2019/02/plumbing.png',
+    icon: '/images/icons/plumbing.png',
     description: '24/7 emergency plumbing and HVAC services when you need us most.',
     link: '/contact'
   }

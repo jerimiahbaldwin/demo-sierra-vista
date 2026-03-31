@@ -28,7 +28,7 @@
             </p>
           </div>
           <div class="content-image">
-            <img src="/download/wp-content/uploads/b2b/stock/v2/bigstock/air-conditioner-on-backyard-31978166.jpg"
+            <img src="/images/services/air-conditioning-installation.jpg"
               alt="Air conditioner installation on backyard" />
           </div>
         </div>
@@ -70,7 +70,7 @@
         <h2>Plan Your AC Installation Without a Hassle</h2>
         <div class="process-content">
           <div class="process-image">
-            <img src="/download/wp-content/uploads/b2b/stock/v2/bigstock/air-conditioner-on-backyard-31978166.jpg"
+            <img src="/images/services/air-conditioning-installation.jpg"
               alt="Professional AC installation setup" />
           </div>
           <div class="process-text">
@@ -147,7 +147,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Air Conditioning Installation Services | Sierra Vista, AZ | Sierra Vista Plumbing, Inc.',
   description: 'Beat the heat with an air conditioning installation from Sierra Vista Plumbing, Inc. We\'ll set up your new air conditioning system right away.',
-  image: '/download/wp-content/uploads/b2b/stock/v2/bigstock/air-conditioner-on-backyard-31978166.jpg',
+  image: '/images/services/air-conditioning-installation.jpg',
   url: '/air-conditioning-installation'
 })
 </script>
@@ -162,7 +162,7 @@ useSeo({
   position: relative;
   height: 500px;
   background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-  background-image: url('/download/wp-content/uploads/b2b/stock/v2/bigstock/air-conditioner-on-backyard-31978166.jpg');
+  background-image: url('/images/services/air-conditioning-installation.jpg');
   background-size: cover;
   background-position: center;
   display: flex;

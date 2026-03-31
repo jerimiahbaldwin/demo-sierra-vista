@@ -32,7 +32,7 @@
                 AZ.</strong></p>
           </div>
           <div class="content-image">
-            <img src="/download/files/2019/02/bigstock-heating-engineer-or-plumber-in-266129701.jpg"
+            <img src="/images/services/heating-services.jpg"
               alt="Professional heating technician working on heating system" />
           </div>
         </div>
@@ -208,7 +208,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Heating System Installation | Sierra Vista, AZ | Sierra Vista Plumbing, Inc.',
   description: 'Before you try to troubleshoot HVAC problems on your own, consider calling Sierra Vista Plumbing, Inc. in Sierra Vista, AZ. We specialize in heating services.',
-  image: '/download/files/2019/02/bigstock-heating-engineer-or-plumber-in-266129701.jpg',
+  image: '/images/services/heating-services.jpg',
   url: '/heating-services'
 })
 </script>
@@ -219,7 +219,7 @@ useSeo({
   position: relative;
   height: 550px;
   background: linear-gradient(135deg, rgba(169, 14, 24, 0.9), rgba(0, 0, 0, 0.7)),
-    url('/download/files/2019/02/bigstock-heating-engineer-or-plumber-in-266129701.jpg') center/cover;
+    url('/images/services/heating-services.jpg') center/cover;
   display: flex;
   align-items: center;
   justify-content: center;

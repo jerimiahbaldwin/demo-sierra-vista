@@ -5,7 +5,7 @@
     <section class="hero-section">
       <div class="hero-image">
         <img
-          src="/download/files/shutterstock/2024/04/shutterstock_19275685_1712001608_e1162418837440b9493b69737dd2930955.jpg"
+          src="/images/services/grease-pumping.jpg"
           alt="Professional commercial grease trap pumping service" />
         <div class="hero-overlay">
           <div class="hero-content">
@@ -122,7 +122,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Grease Pumping Services | Sierra Vista, AZ | Sierra Vista Plumbing, Inc.',
   description: 'We have experience pumping out grease traps for restaurants in Sierra Vista, AZ. We can get rid of any solid and liquid waste caught in your grease trap.',
-  image: '/download/files/shutterstock/2024/04/shutterstock_19275685_1712001608_e1162418837440b9493b69737dd2930955.jpg',
+  image: '/images/services/grease-pumping.jpg',
   url: '/grease-pumping-services'
 })
 </script>

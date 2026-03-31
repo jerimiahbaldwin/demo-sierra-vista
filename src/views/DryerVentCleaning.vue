@@ -33,7 +33,7 @@
 
         <div class="image-wrap">
           <img
-            src="/download/files/shutterstock/2024/04/shutterstock_1982877248_1712001067_e1e5c4d705eda0b4d4396cfe983bbf5c44.jpg"
+            src="/images/services/dryer-vent-cleaning.jpg"
             alt="Dryer vent cleaning service technician"
           />
         </div>
@@ -93,7 +93,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Dryer Vent Cleaning Services | Sierra Vista, AZ | Sierra Vista Plumbing, Inc.',
   description: 'A lint-filled dryer vent is a serious fire hazard. If you can\'t remember the last time your dryer vent was cleaned, you\'re due for dryer vent cleaning services.',
-  image: '/download/files/shutterstock/2024/04/shutterstock_1982877248_1712001067_e1e5c4d705eda0b4d4396cfe983bbf5c44.jpg',
+  image: '/images/services/dryer-vent-cleaning.jpg',
   url: '/dryer-vent-rotobrush-cleaning-services'
 })
 </script>
@@ -115,7 +115,7 @@ useSeo({
   color: #ffffff;
   background:
     linear-gradient(135deg, rgba(127, 29, 29, 0.9), rgba(17, 24, 39, 0.78)),
-    url('/download/files/shutterstock/2024/04/shutterstock_1982877248_1712001067_e1e5c4d705eda0b4d4396cfe983bbf5c44.jpg') center/cover;
+    url('/images/services/dryer-vent-cleaning.jpg') center/cover;
 }
 
 .hero-overlay {

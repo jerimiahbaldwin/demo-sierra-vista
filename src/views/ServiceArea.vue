@@ -6,7 +6,7 @@
 <template>
   <div class="service-area-page">
     <section class="hero-section"
-      :style="{ backgroundImage: `url(/download/files/2019/02/1551296179350_bigstock_124843106.jpg)` }">
+      :style="{ backgroundImage: `url(/images/heroes/service-area.jpg)` }">
       <div class="hero-overlay"></div>
       <div class="container">
         <div class="hero-content">
@@ -80,7 +80,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Service Area | Sierra Vista Plumbing, Inc.',
   description: 'Sierra Vista Plumbing, Inc. serves Sierra Vista, Bisbee, Benson, Huachuca City and Whetstone with dependable plumbing and HVAC services.',
-  image: '/download/files/2019/02/1551296179350_bigstock_124843106.jpg',
+  image: '/images/heroes/service-area.jpg',
   url: '/service-area'
 })
 

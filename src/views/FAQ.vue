@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <section class="hero-inner">
       <div class="hero-slide"
-        :style="{ backgroundImage: `url(/download/wp-content/uploads/b2b/stock/v2/bigstock/bath-wrench-plumling-7068036.jpg)` }">
+        :style="{ backgroundImage: `url(/images/services/plumbing-services.jpg)` }">
         <div class="hero-overlay"></div>
         <div class="container">
           <div class="hero-content">
@@ -167,7 +167,7 @@
 
     <!-- CTA Section -->
     <section class="cta-section"
-      :style="{ backgroundImage: `url(/download/files/2019/02/1551296179350_bigstock_124843106.jpg)` }">
+      :style="{ backgroundImage: `url(/images/heroes/service-area.jpg)` }">
       <div class="cta-overlay"></div>
       <div class="container">
         <div class="cta-content">
@@ -215,7 +215,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'FAQ | Sierra Vista Plumbing, Inc.',
   description: 'Find answers to frequently asked questions about our plumbing, heating, and air conditioning services in Sierra Vista, AZ.',
-  image: '/download/wp-content/uploads/b2b/stock/v2/bigstock/bath-wrench-plumling-7068036.jpg',
+  image: '/images/services/plumbing-services.jpg',
   url: '/faq'
 })
 </script>

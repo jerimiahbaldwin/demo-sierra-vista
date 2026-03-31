@@ -13,7 +13,7 @@ export function useSeo(config) {
   const {
     title = "Sierra Vista Plumbing, Inc.",
     description = "Sierra Vista Plumbing, Inc. is a plumber in Sierra Vista, AZ. Our services include HVAC services, plumbing services and so much more! Give us a call today! (520) 417-2105",
-    image = "/download/files/2019/03/1551447792973_bigstock_close_up_view_on_hvac_units_h_229402624.jpg",
+    image = "/images/heroes/hvac-units.jpg",
     url = "",
     schema = null,
   } = config;
@@ -90,7 +90,7 @@ export function getOrganizationSchema() {
     "@type": "ProfessionalService",
     name: "Sierra Vista Plumbing, Inc",
     url: "https://demo-sierra-vista.com/",
-    logo: "/download/files/2019/03/sierra_vista_new.png",
+    logo: "/images/logo/sierra-vista-logo.png",
     description:
       "Sierra Vista Plumbing, Inc. is a plumber in Sierra Vista, AZ. Our services include HVAC services, plumbing services and so much more! Give us a call today! (520) 417-2105",
     address: {

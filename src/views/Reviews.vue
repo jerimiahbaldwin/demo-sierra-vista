@@ -116,7 +116,7 @@ const reviews = [
 useSeo({
   title: 'Reviews | Sierra Vista Plumbing, Inc.',
   description: 'Read verified customer reviews for plumbing, heating, and cooling services from Sierra Vista Plumbing, Inc.',
-  image: '/download/files/2019/03/sierra_vista_new.png',
+  image: '/images/logo/sierra-vista-logo.png',
   url: '/reviews'
 })
 </script>

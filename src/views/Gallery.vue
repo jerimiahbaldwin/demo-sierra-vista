@@ -7,7 +7,7 @@
   <div class="gallery-page">
     <!-- Hero Section -->
     <section class="hero-section"
-      :style="{ backgroundImage: `url(/download/files/2022/10/1666359764724_img_20220907_153739863_hdr.jpg)` }">
+      :style="{ backgroundImage: `url(/images/heroes/gallery-hero.jpg)` }">
       <div class="hero-overlay"></div>
       <div class="container">
         <div class="hero-content">
@@ -82,66 +82,66 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Gallery | Sierra Vista Plumbing, Inc.',
   description: 'View our completed plumbing, heating, and air conditioning projects in Sierra Vista, AZ.',
-  image: '/download/files/2022/10/1666359764724_img_20220907_153739863_hdr.jpg',
+  image: '/images/heroes/gallery-hero.jpg',
   url: '/gallery'
 })
 
 // Gallery images from the original site
 const galleryImages = ref([
   {
-    src: '/download/files/2022/10/1666359764724_img_20220907_153739863_hdr.jpg',
+    src: '/images/heroes/gallery-hero.jpg',
     alt: 'Professional HVAC installation'
   },
   {
-    src: '/download/files/2022/10/1666359733654_img_20220927_161503744.jpg',
+    src: '/images/gallery/gallery-2.jpg',
     alt: 'Plumbing service work'
   },
   {
-    src: '/download/files/2022/10/1666359712804_img_20221006_115232764_hdr.jpg',
+    src: '/images/gallery/gallery-3.jpg',
     alt: 'Heating system installation'
   },
   {
-    src: '/download/files/2022/10/1666359691774_img_20220818_133724178.jpg',
+    src: '/images/gallery/gallery-4.jpg',
     alt: 'Air conditioning repair'
   },
   {
-    src: '/download/files/2020/07/23032354_783282055177141_8220129623951181476_n.jpg',
+    src: '/images/gallery/gallery-5.jpg',
     alt: 'Commercial plumbing project'
   },
   {
-    src: '/download/files/2020/07/1594751965643_20993095_751868368318510_8596883855423348288_n.jpg',
+    src: '/images/gallery/gallery-6.jpg',
     alt: 'Residential HVAC work'
   },
   {
-    src: '/download/files/2020/07/1594751975274_11175045_408957012609649_5451107137263283625_n.jpg',
+    src: '/images/gallery/gallery-7.jpg',
     alt: 'Water heater installation'
   },
   {
-    src: '/download/files/2020/07/1594751982538_11174980_407674432737907_8458628633811084202_n.jpg',
+    src: '/images/gallery/gallery-8.jpg',
     alt: 'Duct cleaning service'
   },
   {
-    src: '/download/files/2020/07/11167661_407673876071296_4966435864999835686_n.jpg',
+    src: '/images/gallery/gallery-9.jpg',
     alt: 'Plumbing repair work'
   },
   {
-    src: '/download/files/2020/07/11161339_408956759276341_7087623468737370888_n.jpg',
+    src: '/images/gallery/gallery-10.jpg',
     alt: 'HVAC maintenance'
   },
   {
-    src: '/download/files/2020/07/11108209_407675206071163_2777012138834212744_n.jpg',
+    src: '/images/gallery/gallery-11.jpg',
     alt: 'Heating system repair'
   },
   {
-    src: '/download/files/2020/07/11010289_411761418995875_4699240810552992315_n.jpg',
+    src: '/images/gallery/gallery-12.jpg',
     alt: 'Air conditioning installation'
   },
   {
-    src: '/download/files/2020/07/10389027_374375896067761_499326307120328047_n.jpg',
+    src: '/images/gallery/gallery-13.jpg',
     alt: 'Commercial HVAC project'
   },
   {
-    src: '/download/files/2020/07/23031361_783282038510476_1138368765012781407_n.jpg',
+    src: '/images/gallery/gallery-14.jpg',
     alt: 'Plumbing installation'
   }
 ])

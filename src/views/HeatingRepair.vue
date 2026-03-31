@@ -29,7 +29,7 @@
             <p><strong>Contact us now for heating repair in Sierra Vista, Arizona.</strong></p>
           </div>
           <div class="content-image">
-            <img src="/download/files/2019/10/bigstock-Heating-Central-Gas-Furnace-Is-310494298.jpg"
+            <img src="/images/services/heating-repair.jpg"
               alt="Heating repair technician working on furnace" />
           </div>
         </div>
@@ -104,7 +104,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Heating Repair | Sierra Vista, AZ | Sierra Vista Plumbing, Inc.',
   description: 'Call Sierra Vista Plumbing, Inc. when your heater breaks down. We provide heating repair services in Sierra Vista, AZ.',
-  image: '/download/files/2019/10/bigstock-Heating-Central-Gas-Furnace-Is-310494298.jpg',
+  image: '/images/services/heating-repair.jpg',
   url: '/heating-repair'
 })
 </script>
@@ -119,7 +119,7 @@ useSeo({
   position: relative;
   height: 500px;
   background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-  background-image: url('/download/files/2019/10/bigstock-Heating-Central-Gas-Furnace-Is-310494298.jpg');
+  background-image: url('/images/services/heating-repair.jpg');
   background-size: cover;
   background-position: center;
   display: flex;

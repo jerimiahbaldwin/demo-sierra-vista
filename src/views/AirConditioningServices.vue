@@ -21,7 +21,7 @@
       <div class="container">
         <div class="content-grid">
           <div class="content-image">
-            <img src="/download/wp-content/uploads/b2b/stock/v2/bigstock/Industrial-Air-Conditioning-Re-4776307.jpg"
+            <img src="/images/services/air-conditioning-repair.jpg"
               alt="Industrial Air Conditioning Repair" />
           </div>
           <div class="content-text">
@@ -176,7 +176,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Air Conditioning Installation Services | Sierra Vista, AZ | Sierra Vista Plumbing, Inc.',
   description: 'If you want to keep your home or office cool all summer long, you should schedule air conditioning repair services from Sierra Vista Plumbing, Inc. in Sierra Vista, AZ.',
-  image: '/download/wp-content/uploads/b2b/stock/v2/bigstock/Industrial-Air-Conditioning-Re-4776307.jpg',
+  image: '/images/services/air-conditioning-repair.jpg',
   url: '/air-conditioning-services'
 })
 </script>
@@ -191,7 +191,7 @@ useSeo({
   position: relative;
   height: 500px;
   background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-  background-image: url('/download/wp-content/uploads/b2b/stock/v2/bigstock/Industrial-Air-Conditioning-Re-4776307.jpg');
+  background-image: url('/images/services/air-conditioning-repair.jpg');
   background-size: cover;
   background-position: center;
   display: flex;

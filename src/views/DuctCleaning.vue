@@ -7,7 +7,7 @@
   <div class="duct-cleaning-page">
     <!-- Hero Section -->
     <section class="hero-section"
-      :style="{ backgroundImage: `url(/download/files/shutterstock/2024/04/shutterstock_1122500891_1712000690_e1684083920b7e1f47254466fef9260743.jpg)` }">
+      :style="{ backgroundImage: `url(/images/services/duct-cleaning.jpg)` }">
       <div class="hero-overlay"></div>
       <div class="container">
         <div class="hero-content">
@@ -130,7 +130,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Duct Cleaning Services | Sierra Vista, AZ | Sierra Vista Plumbing, Inc.',
   description: 'We offer high-quality duct cleaning services. You can trust us to clear out anything that\'s preventing clean air from flowing through your ducts properly.',
-  image: '/download/files/shutterstock/2024/04/shutterstock_1122500891_1712000690_e1684083920b7e1f47254466fef9260743.jpg',
+  image: '/images/services/duct-cleaning.jpg',
   url: '/duct-cleaning-services'
 })
 </script>

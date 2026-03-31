@@ -32,7 +32,7 @@
             <p><strong>Speak with our HVAC contractor today to learn more about your heating options.</strong></p>
           </div>
           <div class="content-image">
-            <img src="/download/files/2019/10/bigstock-House-Heating-Unit-Repair-By-P-321026833.jpg"
+            <img src="/images/services/heating-installation.jpg"
               alt="Professional heating system installation" />
           </div>
         </div>
@@ -170,7 +170,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Heating Installation | Sierra Vista, AZ | Sierra Vista Plumbing, Inc.',
   description: 'We\'ve been providing heating replacement services In Sierra Vista, Arizona for over 10 years. Speak with an HVAC contractor today.',
-  image: '/download/files/2019/10/bigstock-House-Heating-Unit-Repair-By-P-321026833.jpg',
+  image: '/images/services/heating-installation.jpg',
   url: '/heating-installation'
 })
 </script>
@@ -181,7 +181,7 @@ useSeo({
   position: relative;
   height: 500px;
   background: linear-gradient(135deg, rgba(169, 14, 24, 0.9), rgba(0, 0, 0, 0.7)),
-    url('/download/files/2019/10/bigstock-House-Heating-Unit-Repair-By-P-321026833.jpg') center/cover;
+    url('/images/services/heating-installation.jpg') center/cover;
   display: flex;
   align-items: center;
   justify-content: center;

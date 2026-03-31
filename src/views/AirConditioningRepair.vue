@@ -28,7 +28,7 @@
             <p><strong>Contact us now to request an air conditioning repair in Sierra Vista, AZ.</strong></p>
           </div>
           <div class="content-image">
-            <img src="/download/wp-content/uploads/b2b/stock/v2/bigstock/Industrial-Air-Conditioning-Re-4776307.jpg"
+            <img src="/images/services/air-conditioning-repair.jpg"
               alt="Air conditioning repair technician working on AC unit" />
           </div>
         </div>
@@ -124,7 +124,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Air Conditioning Repairs | Sierra Vista, AZ | Sierra Vista Plumbing, Inc.',
   description: 'If there\'s a problem with your air conditioning, don\'t put off air conditioning repair. Call Sierra Vista Plumbing, Inc. for the HVAC services you need in Sierra Vista, AZ.',
-  image: '/download/wp-content/uploads/b2b/stock/v2/bigstock/Industrial-Air-Conditioning-Re-4776307.jpg',
+  image: '/images/services/air-conditioning-repair.jpg',
   url: '/air-conditioning-repair'
 })
 </script>
@@ -139,7 +139,7 @@ useSeo({
   position: relative;
   height: 500px;
   background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-  background-image: url('/download/wp-content/uploads/b2b/stock/v2/bigstock/Industrial-Air-Conditioning-Re-4776307.jpg');
+  background-image: url('/images/services/air-conditioning-repair.jpg');
   background-size: cover;
   background-position: center;
   display: flex;

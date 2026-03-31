@@ -32,7 +32,7 @@
                 possible.</strong></p>
           </div>
           <div class="content-image">
-            <img src="/download/files/2019/10/bigstock-Close-Up-Of-Air-Conditioning-R-302758960.jpg"
+            <img src="/images/services/heating-maintenance.jpg"
               alt="Heating maintenance technician inspecting system" />
           </div>
         </div>
@@ -152,7 +152,7 @@ import { useSeo } from '../composables/useSeo'
 useSeo({
   title: 'Heating Maintenance | Sierra Vista, AZ | Sierra Vista Plumbing, Inc.',
   description: 'Regular heating maintenance can keep your heat pump or furnace working year after year. Sierra Vista Plumbing, Inc. can provide heating maintenance services.',
-  image: '/download/files/2019/10/bigstock-Close-Up-Of-Air-Conditioning-R-302758960.jpg',
+  image: '/images/services/heating-maintenance.jpg',
   url: '/heating-maintenance'
 })
 </script>
@@ -167,7 +167,7 @@ useSeo({
   position: relative;
   height: 500px;
   background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-  background-image: url('/download/files/2019/10/bigstock-Close-Up-Of-Air-Conditioning-R-302758960.jpg');
+  background-image: url('/images/services/heating-maintenance.jpg');
   background-size: cover;
   background-position: center;
   display: flex;

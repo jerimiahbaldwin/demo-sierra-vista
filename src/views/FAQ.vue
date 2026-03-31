@@ -2,7 +2,8 @@
   <div>
     <!-- Hero Section -->
     <section class="hero-inner">
-      <div class="hero-slide" :style="{ backgroundImage: `url(/download/wp-content/uploads/b2b/stock/v2/bigstock/bath-wrench-plumling-7068036.jpg)` }">
+      <div class="hero-slide"
+        :style="{ backgroundImage: `url(/download/wp-content/uploads/b2b/stock/v2/bigstock/bath-wrench-plumling-7068036.jpg)` }">
         <div class="hero-overlay"></div>
         <div class="container">
           <div class="hero-content">
@@ -21,8 +22,8 @@
           <div class="main-content">
             <div class="content-block">
               <p class="intro-text">
-                Have questions about our plumbing, heating, or air conditioning services? We've compiled answers 
-                to the most frequently asked questions from our customers in Sierra Vista, AZ. If you don't find 
+                Have questions about our plumbing, heating, or air conditioning services? We've compiled answers
+                to the most frequently asked questions from our customers in Sierra Vista, AZ. If you don't find
                 the answer you're looking for, please don't hesitate to contact us directly.
               </p>
             </div>
@@ -36,7 +37,7 @@
                 </div>
                 <div class="faq-answer">
                   <p>
-                    The easiest way is to look at your water meter. If the meter is moving you have water moving. 
+                    The easiest way is to look at your water meter. If the meter is moving you have water moving.
                     Time the meter for 3 minutes in order to catch smaller leaks. If you're unsure, give us a call!
                   </p>
                 </div>
@@ -49,7 +50,7 @@
                 </div>
                 <div class="faq-answer">
                   <p>
-                    Clients get scheduled in the order that they call. We have a few time brackets so normal service 
+                    Clients get scheduled in the order that they call. We have a few time brackets so normal service
                     calls do not have to wait behind bigger all day jobs.
                   </p>
                 </div>
@@ -62,8 +63,8 @@
                 </div>
                 <div class="faq-answer">
                   <p>
-                    Our process is streamlined. Customers make contact with our office at 520-417-2105. Zach is 
-                    normally the first point of contact. Zach will take their information and schedule an appointment. 
+                    Our process is streamlined. Customers make contact with our office at 520-417-2105. Zach is
+                    normally the first point of contact. Zach will take their information and schedule an appointment.
                     All of our techs are radio dispatched so if something needs quick attention, we can expedite it.
                   </p>
                 </div>
@@ -76,7 +77,7 @@
                 </div>
                 <div class="faq-answer">
                   <p>
-                    Normal jobs take an hour or two. More complex repairs or installations may take longer, and 
+                    Normal jobs take an hour or two. More complex repairs or installations may take longer, and
                     we'll provide you with an estimated timeframe when we schedule your appointment.
                   </p>
                 </div>
@@ -89,8 +90,8 @@
                 </div>
                 <div class="faq-answer">
                   <p>
-                    Typically a repair is recommended. It's entirely up to the customer once we diagnose the issue. 
-                    Our experienced technicians will provide you with options and help you make the best decision 
+                    Typically a repair is recommended. It's entirely up to the customer once we diagnose the issue.
+                    Our experienced technicians will provide you with options and help you make the best decision
                     for your situation and budget.
                   </p>
                 </div>
@@ -103,8 +104,8 @@
                 </div>
                 <div class="faq-answer">
                   <p>
-                    Typically it is because the incoming cold water is colder this time of year. Your water heater 
-                    has to work harder to heat the water to the desired temperature. If you're experiencing 
+                    Typically it is because the incoming cold water is colder this time of year. Your water heater
+                    has to work harder to heat the water to the desired temperature. If you're experiencing
                     significant issues, we can inspect your water heater to ensure it's functioning properly.
                   </p>
                 </div>
@@ -114,7 +115,7 @@
             <div class="content-block call-to-action-box">
               <h2>Still Have Questions?</h2>
               <p>
-                Our friendly team is here to help! Whether you need emergency service or want to schedule a 
+                Our friendly team is here to help! Whether you need emergency service or want to schedule a
                 routine maintenance appointment, we're just a phone call away.
               </p>
               <div class="action-buttons">
@@ -165,7 +166,8 @@
     </section>
 
     <!-- CTA Section -->
-    <section class="cta-section" :style="{ backgroundImage: `url(/download/files/2019/02/1551296179350_bigstock_124843106.jpg)` }">
+    <section class="cta-section"
+      :style="{ backgroundImage: `url(/download/files/2019/02/1551296179350_bigstock_124843106.jpg)` }">
       <div class="cta-overlay"></div>
       <div class="container">
         <div class="cta-content">

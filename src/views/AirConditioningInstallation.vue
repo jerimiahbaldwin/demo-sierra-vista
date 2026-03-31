@@ -21,10 +21,11 @@
         <div class="content-grid">
           <div class="content-text">
             <h2>Professional AC Installation Services</h2>
-            <p>Beat the heat with an air conditioning installation from Sierra Vista Plumbing, Inc. We'll set up your 
-              new air conditioning system right away. Don't sweat through another day. We'll perform the installation 
+            <p>Beat the heat with an air conditioning installation from Sierra Vista Plumbing, Inc. We'll set up your
+              new air conditioning system right away. Don't sweat through another day. We'll perform the installation
               you need swiftly and effectively.</p>
-            <p><strong>Call 520-417-2105 now to schedule an air conditioning installation in Sierra Vista, AZ.</strong></p>
+            <p><strong>Call 520-417-2105 now to schedule an air conditioning installation in Sierra Vista, AZ.</strong>
+            </p>
           </div>
           <div class="content-image">
             <img src="/download/wp-content/uploads/b2b/stock/v2/bigstock/air-conditioner-on-backyard-31978166.jpg"
@@ -38,18 +39,21 @@
     <section class="benefits-section">
       <div class="container">
         <h2>What Are the Benefits of Getting a New Air Conditioner?</h2>
-        <p class="section-intro">Investing in a new air conditioning system provides numerous advantages for your home and family.</p>
+        <p class="section-intro">Investing in a new air conditioning system provides numerous advantages for your home
+          and family.</p>
 
         <div class="benefits-grid">
           <div class="benefit-card">
             <div class="benefit-icon">❄️</div>
             <h3>Comfortable Environment</h3>
-            <p>Enjoy a more comfortable environment throughout your entire home, even during the hottest summer days.</p>
+            <p>Enjoy a more comfortable environment throughout your entire home, even during the hottest summer days.
+            </p>
           </div>
           <div class="benefit-card">
             <div class="benefit-icon">🏠</div>
             <h3>Temperature Control</h3>
-            <p>Keep your belongings at a controlled temperature, protecting furniture, electronics, and valuables from heat damage.</p>
+            <p>Keep your belongings at a controlled temperature, protecting furniture, electronics, and valuables from
+              heat damage.</p>
           </div>
           <div class="benefit-card">
             <div class="benefit-icon">💰</div>
@@ -70,9 +74,9 @@
               alt="Professional AC installation setup" />
           </div>
           <div class="process-text">
-            <p>Whether you're constructing a new home or replacing your old air conditioner, you can count on us to 
+            <p>Whether you're constructing a new home or replacing your old air conditioner, you can count on us to
               take care of your AC installation. Investing in your AC system pays off in the long run.</p>
-            <p>With a new and more efficient air conditioning unit, you can save money on repairs and maintenance. 
+            <p>With a new and more efficient air conditioning unit, you can save money on repairs and maintenance.
               Our experienced technicians ensure proper installation for optimal performance and longevity.</p>
             <div class="process-cta">
               <p><strong>Contact us today to request an AC installation in Sierra Vista, AZ.</strong></p>

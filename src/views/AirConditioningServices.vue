@@ -6,7 +6,8 @@
       <div class="hero-content">
         <div class="container">
           <h1 class="hero-title">Keep Your Cool This Summer With Air Conditioning Installation</h1>
-          <p class="hero-subtitle">Maintain your system by scheduling air conditioning repair services in Sierra Vista, AZ</p>
+          <p class="hero-subtitle">Maintain your system by scheduling air conditioning repair services in Sierra Vista,
+            AZ</p>
           <div class="hero-buttons">
             <a href="/contact" class="btn btn-primary">Contact Us</a>
             <a href="tel:520-417-2105" class="btn btn-secondary">Call: (520) 417-2105</a>
@@ -25,9 +26,14 @@
           </div>
           <div class="content-text">
             <h2>Professional Air Conditioning Services</h2>
-            <p>A hot summer without AC can be brutal. High temperatures can slow you down, make you less productive and put you in a sweaty haze. If you want to keep your home or office nice and cool all summer long, you should maintain your system by scheduling air conditioning repair services from Sierra Vista Plumbing, Inc. in Sierra Vista, AZ.</p>
-            <p>As soon as you start to experience the side effects of broken air conditioning, find an experienced HVAC company that can determine the best air conditioning repair service for you.</p>
-            <p><strong>Hire an air conditioning repair technician in Sierra Vista, AZ to enjoy a cool indoor breeze again.</strong></p>
+            <p>A hot summer without AC can be brutal. High temperatures can slow you down, make you less productive and
+              put you in a sweaty haze. If you want to keep your home or office nice and cool all summer long, you
+              should maintain your system by scheduling air conditioning repair services from Sierra Vista Plumbing,
+              Inc. in Sierra Vista, AZ.</p>
+            <p>As soon as you start to experience the side effects of broken air conditioning, find an experienced HVAC
+              company that can determine the best air conditioning repair service for you.</p>
+            <p><strong>Hire an air conditioning repair technician in Sierra Vista, AZ to enjoy a cool indoor breeze
+                again.</strong></p>
           </div>
         </div>
       </div>
@@ -37,23 +43,28 @@
     <section class="signs-section">
       <div class="container">
         <h2>Sometimes New Is Better</h2>
-        <p class="section-intro">When your cooling system is beyond repair, installing a new air conditioning system is the appropriate solution. If you notice the following symptoms, it's probably time to schedule an air conditioning installation.</p>
+        <p class="section-intro">When your cooling system is beyond repair, installing a new air conditioning system is
+          the appropriate solution. If you notice the following symptoms, it's probably time to schedule an air
+          conditioning installation.</p>
 
         <div class="signs-grid">
           <div class="sign-card">
             <div class="sign-icon">❄️</div>
             <h3>Little or No Cold Air</h3>
-            <p>If your system is blowing warm air or can't maintain cool temperatures, it may be time for a replacement.</p>
+            <p>If your system is blowing warm air or can't maintain cool temperatures, it may be time for a replacement.
+            </p>
           </div>
           <div class="sign-card">
             <div class="sign-icon">💨</div>
             <h3>Poor Air Flow</h3>
-            <p>Weak airflow from vents indicates your system is struggling to circulate air effectively throughout your space.</p>
+            <p>Weak airflow from vents indicates your system is struggling to circulate air effectively throughout your
+              space.</p>
           </div>
           <div class="sign-card">
             <div class="sign-icon">💧</div>
             <h3>Leaks Around the Unit</h3>
-            <p>Moisture or refrigerant leaks around your AC unit are serious issues that often require system replacement.</p>
+            <p>Moisture or refrigerant leaks around your AC unit are serious issues that often require system
+              replacement.</p>
           </div>
           <div class="sign-card">
             <div class="sign-icon">🔊</div>
@@ -63,7 +74,8 @@
           <div class="sign-card">
             <div class="sign-icon">🔧</div>
             <h3>Constant Repairs</h3>
-            <p>If you're frequently calling for repairs, investing in a new system is more cost-effective in the long run.</p>
+            <p>If you're frequently calling for repairs, investing in a new system is more cost-effective in the long
+              run.</p>
           </div>
           <div class="sign-card">
             <div class="sign-icon">📅</div>
@@ -136,7 +148,8 @@
     <section class="cta-section">
       <div class="container">
         <h2>Ready for Reliable Air Conditioning Service?</h2>
-        <p>Call 520-417-2105 now to start enjoying the benefits of a new air conditioning installation in Sierra Vista, AZ.</p>
+        <p>Call 520-417-2105 now to start enjoying the benefits of a new air conditioning installation in Sierra Vista,
+          AZ.</p>
         <div class="cta-buttons">
           <a href="/contact" class="btn btn-primary btn-lg">Contact Us</a>
           <a href="tel:520-417-2105" class="btn btn-secondary btn-lg">Call Now</a>

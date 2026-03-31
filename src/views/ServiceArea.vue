@@ -5,7 +5,8 @@
 -->
 <template>
   <div class="service-area-page">
-    <section class="hero-section" :style="{ backgroundImage: `url(/download/files/2019/02/1551296179350_bigstock_124843106.jpg)` }">
+    <section class="hero-section"
+      :style="{ backgroundImage: `url(/download/files/2019/02/1551296179350_bigstock_124843106.jpg)` }">
       <div class="hero-overlay"></div>
       <div class="container">
         <div class="hero-content">
@@ -50,15 +51,9 @@
             <router-link to="/contact" class="btn btn-secondary">Request An Estimate</router-link>
           </div>
           <div class="map-frame">
-            <iframe
-              src="https://www.google.com/maps/d/embed?mid=1DhEpFEog4WlGWnUYPf9svdSSQFZs3YUb"
-              width="100%"
-              height="480"
-              style="border:0;"
-              loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade"
-              title="Sierra Vista Plumbing service area map"
-            ></iframe>
+            <iframe src="https://www.google.com/maps/d/embed?mid=1DhEpFEog4WlGWnUYPf9svdSSQFZs3YUb" width="100%"
+              height="480" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+              title="Sierra Vista Plumbing service area map"></iframe>
           </div>
         </div>
       </div>

@@ -34,8 +34,7 @@
     <section class="gallery-section">
       <div class="container">
         <div class="gallery-grid">
-          <div v-for="(image, index) in galleryImages" :key="index" class="gallery-item"
-            @click="openLightbox(index)">
+          <div v-for="(image, index) in galleryImages" :key="index" class="gallery-item" @click="openLightbox(index)">
             <div class="gallery-image-wrapper">
               <img :src="image.src" :alt="image.alt" class="gallery-image" loading="lazy" />
               <div class="gallery-overlay">

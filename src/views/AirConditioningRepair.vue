@@ -22,7 +22,9 @@
         <div class="content-grid">
           <div class="content-text">
             <h2>Expert Air Conditioning Repair Services</h2>
-            <p>If there's a problem with your air conditioning, don't put off air conditioning repair. Call Sierra Vista Plumbing, Inc. for the HVAC services you need. We'll determine what's wrong with your air conditioner so you can resolve the issue and relax in comfort.</p>
+            <p>If there's a problem with your air conditioning, don't put off air conditioning repair. Call Sierra Vista
+              Plumbing, Inc. for the HVAC services you need. We'll determine what's wrong with your air conditioner so
+              you can resolve the issue and relax in comfort.</p>
             <p><strong>Contact us now to request an air conditioning repair in Sierra Vista, AZ.</strong></p>
           </div>
           <div class="content-image">
@@ -37,7 +39,8 @@
     <section class="warning-signs-section">
       <div class="container">
         <h2>Signs You Need AC Repair</h2>
-        <p class="section-intro">Reach out to us if you're experiencing any of these common air conditioning problems:</p>
+        <p class="section-intro">Reach out to us if you're experiencing any of these common air conditioning problems:
+        </p>
 
         <div class="warning-signs-grid">
           <div class="warning-card">
@@ -79,9 +82,12 @@
       <div class="container">
         <div class="maintenance-content">
           <h2>We'll Cover All Your AC Maintenance Needs</h2>
-          <p>Don't let HVAC problems sneak up on you. Approach them head-on with our exemplary AC maintenance service. We'll keep your air conditioning working all year long to make sure it never gets too hot in your home. We'll conduct a full system performance test and a leak test to make sure we cover all of our bases.</p>
+          <p>Don't let HVAC problems sneak up on you. Approach them head-on with our exemplary AC maintenance service.
+            We'll keep your air conditioning working all year long to make sure it never gets too hot in your home.
+            We'll conduct a full system performance test and a leak test to make sure we cover all of our bases.</p>
           <div class="maintenance-highlight">
-            <p><strong>Regular AC maintenance helps prevent costly repairs and extends the life of your system.</strong></p>
+            <p><strong>Regular AC maintenance helps prevent costly repairs and extends the life of your system.</strong>
+            </p>
           </div>
         </div>
       </div>

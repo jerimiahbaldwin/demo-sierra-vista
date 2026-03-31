@@ -22,9 +22,14 @@
         <div class="content-grid">
           <div class="content-text">
             <h2>Regular Maintenance Keeps Your Heater Running</h2>
-            <p>From tire rotations to oil changes, many people perform regular maintenance on their cars to keep them on the road. The same logic applies to heaters. Regular heating maintenance can keep your heat pump or furnace working year after year.</p>
-            <p>Sierra Vista Plumbing, Inc. can provide heating maintenance services at a time that's convenient for you. Our heating contractor will go to your home or office in Sierra Vista, AZ and give your heating system a thorough tuneup.</p>
-            <p><strong>Arrange for a heating maintenance plan today to keep your heater as efficient as possible.</strong></p>
+            <p>From tire rotations to oil changes, many people perform regular maintenance on their cars to keep them on
+              the road. The same logic applies to heaters. Regular heating maintenance can keep your heat pump or
+              furnace working year after year.</p>
+            <p>Sierra Vista Plumbing, Inc. can provide heating maintenance services at a time that's convenient for you.
+              Our heating contractor will go to your home or office in Sierra Vista, AZ and give your heating system a
+              thorough tuneup.</p>
+            <p><strong>Arrange for a heating maintenance plan today to keep your heater as efficient as
+                possible.</strong></p>
           </div>
           <div class="content-image">
             <img src="/download/files/2019/10/bigstock-Close-Up-Of-Air-Conditioning-R-302758960.jpg"
@@ -38,7 +43,9 @@
     <section class="services-section">
       <div class="container">
         <h2>What Goes Into Heating Maintenance?</h2>
-        <p class="section-intro">When you get heating maintenance services from Sierra Vista Plumbing, our HVAC contractor will give your heater a thorough examination. We'll look for problems and clean your system so it is more efficient and lasts longer.</p>
+        <p class="section-intro">When you get heating maintenance services from Sierra Vista Plumbing, our HVAC
+          contractor will give your heater a thorough examination. We'll look for problems and clean your system so it
+          is more efficient and lasts longer.</p>
 
         <div class="services-grid">
           <div class="service-card">

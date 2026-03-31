@@ -59,13 +59,17 @@
   margin-top: 0;
   border-radius: 4px;
   z-index: 1000;
-  transition: opacity 0.2s ease, visibility 0s linear 0.3s;
+  transition:
+    opacity 0.2s ease,
+    visibility 0s linear 0.3s;
 }
 
 .nav-dropdown:hover .nav-dropdown-menu {
   opacity: 1;
   visibility: visible;
-  transition: opacity 0.2s ease, visibility 0s;
+  transition:
+    opacity 0.2s ease,
+    visibility 0s;
 }
 
 .nav-dropdown-menu a {

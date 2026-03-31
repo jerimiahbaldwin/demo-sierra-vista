@@ -7,7 +7,8 @@
       <div class="hero-content">
         <div class="container">
           <h1 class="hero-title">Don't Suffer Through the Shivers</h1>
-          <p class="hero-subtitle">Stay warm and cozy by scheduling heating system repair services in Sierra Vista, AZ</p>
+          <p class="hero-subtitle">Stay warm and cozy by scheduling heating system repair services in Sierra Vista, AZ
+          </p>
           <div class="hero-buttons">
             <a href="/contact" class="btn btn-primary">Get Free Estimate</a>
             <a href="tel:520-417-2105" class="btn btn-secondary">Call: (520) 417-2105</a>
@@ -22,16 +23,17 @@
         <div class="content-grid">
           <div class="content-text">
             <h2>Professional Heating Services You Can Trust</h2>
-            <p>When your heat suddenly stops working in the dead of winter, it can leave you shivering and miserable. 
-              Before you try to troubleshoot HVAC problems on your own, consider calling Sierra Vista Plumbing, Inc. 
+            <p>When your heat suddenly stops working in the dead of winter, it can leave you shivering and miserable.
+              Before you try to troubleshoot HVAC problems on your own, consider calling Sierra Vista Plumbing, Inc.
               in Sierra Vista, AZ. We specialize in heating system repair and installation work.</p>
-            <p>Whether you need heating system installation or repair service, rely on our HVAC company to provide 
+            <p>Whether you need heating system installation or repair service, rely on our HVAC company to provide
               a proper diagnosis.</p>
-            <p><strong>Grab a blanket and call Sierra Vista Plumbing for heating system repair services in Sierra Vista, AZ.</strong></p>
+            <p><strong>Grab a blanket and call Sierra Vista Plumbing for heating system repair services in Sierra Vista,
+                AZ.</strong></p>
           </div>
           <div class="content-image">
-            <img src="/download/files/2019/02/bigstock-heating-engineer-or-plumber-in-266129701.jpg" 
-                 alt="Professional heating technician working on heating system" />
+            <img src="/download/files/2019/02/bigstock-heating-engineer-or-plumber-in-266129701.jpg"
+              alt="Professional heating technician working on heating system" />
           </div>
         </div>
       </div>
@@ -41,13 +43,13 @@
     <section class="warning-signs-section">
       <div class="container">
         <h2>When All Signs Point to Replacement</h2>
-        <p class="section-intro">When something is wrong with your heating system, it's usually pretty obvious. 
+        <p class="section-intro">When something is wrong with your heating system, it's usually pretty obvious.
           Signs that it's time to schedule a heating system installation include:</p>
         <div class="signs-grid">
           <div class="sign-card">
             <div class="sign-icon">🔧</div>
             <h3>Frequent Repairs</h3>
-            <p>If you're calling for repairs multiple times per season, it may be more cost-effective to replace 
+            <p>If you're calling for repairs multiple times per season, it may be more cost-effective to replace
               your system entirely</p>
           </div>
           <div class="sign-card">
@@ -58,7 +60,7 @@
           <div class="sign-card">
             <div class="sign-icon">💸</div>
             <h3>Rising Electric Bills</h3>
-            <p>A noticeable spike in energy costs often means your heating system is working harder and less 
+            <p>A noticeable spike in energy costs often means your heating system is working harder and less
               efficiently</p>
           </div>
           <div class="sign-card">
@@ -78,7 +80,7 @@
           </div>
         </div>
         <div class="signs-cta">
-          <p>If you notice any of these signs, it might be time for heating system installation or repair service. 
+          <p>If you notice any of these signs, it might be time for heating system installation or repair service.
             In either case, a trained contractor will determine what's best.</p>
           <a href="/contact" class="btn btn-primary">Contact Us</a>
         </div>
@@ -93,21 +95,21 @@
           <div class="service-card">
             <div class="service-icon">🔥</div>
             <h3>Heating Repair</h3>
-            <p>Fast, reliable repairs to get your heating system running smoothly again. We diagnose and fix all 
+            <p>Fast, reliable repairs to get your heating system running smoothly again. We diagnose and fix all
               types of heating issues.</p>
             <a href="/heating-repair">Learn More →</a>
           </div>
           <div class="service-card">
             <div class="service-icon">⚙️</div>
             <h3>Heating Installation</h3>
-            <p>Professional installation of new heating systems with expert guidance on selecting the best equipment 
+            <p>Professional installation of new heating systems with expert guidance on selecting the best equipment
               for your home.</p>
             <a href="/heating-installation">Learn More →</a>
           </div>
           <div class="service-card">
             <div class="service-icon">🛠️</div>
             <h3>Heating Maintenance</h3>
-            <p>Regular maintenance to keep your system running efficiently and prevent costly breakdowns before they 
+            <p>Regular maintenance to keep your system running efficiently and prevent costly breakdowns before they
               happen.</p>
             <a href="/heating-maintenance">Learn More →</a>
           </div>
@@ -123,12 +125,14 @@
           <div class="feature">
             <div class="feature-icon">✓</div>
             <h3>Expert Technicians</h3>
-            <p>Our certified HVAC professionals have years of experience with all major heating system brands and models</p>
+            <p>Our certified HVAC professionals have years of experience with all major heating system brands and models
+            </p>
           </div>
           <div class="feature">
             <div class="feature-icon">✓</div>
             <h3>24/7 Emergency Service</h3>
-            <p>Heating emergencies don't wait for business hours - neither do we. Available round the clock for urgent repairs</p>
+            <p>Heating emergencies don't wait for business hours - neither do we. Available round the clock for urgent
+              repairs</p>
           </div>
           <div class="feature">
             <div class="feature-icon">✓</div>
@@ -176,7 +180,8 @@
     <section class="cta-section">
       <div class="container">
         <h2>Ready to Schedule Your Heating Service?</h2>
-        <p>Contact Sierra Vista Plumbing, Inc. today for diagnostic appointments and expert heating solutions in Sierra Vista, AZ</p>
+        <p>Contact Sierra Vista Plumbing, Inc. today for diagnostic appointments and expert heating solutions in Sierra
+          Vista, AZ</p>
         <div class="cta-buttons">
           <a href="/contact" class="btn btn-primary btn-lg">Contact Us</a>
           <a href="tel:520-417-2105" class="btn btn-secondary btn-lg">Call: (520) 417-2105</a>

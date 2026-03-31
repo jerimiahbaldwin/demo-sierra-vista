@@ -22,11 +22,13 @@
         <div class="content-grid">
           <div class="content-text">
             <h2>Professional Heating Installation Services</h2>
-            <p>Is your heater more than a decade old? They might last for years, but technology improves quickly. 
-              A heating replacement will be more efficient and can give you greater control over the heating in your 
-              home or office. Reach out to Sierra Vista Plumbing, Inc. when you're ready for a new heating installation.</p>
-            <p>We've been providing heating replacement services In Sierra Vista, Arizona for over 10 years. We'll help 
-              you find a new heater that will provide the temperature control you need while lowering your utility bill.</p>
+            <p>Is your heater more than a decade old? They might last for years, but technology improves quickly.
+              A heating replacement will be more efficient and can give you greater control over the heating in your
+              home or office. Reach out to Sierra Vista Plumbing, Inc. when you're ready for a new heating installation.
+            </p>
+            <p>We've been providing heating replacement services In Sierra Vista, Arizona for over 10 years. We'll help
+              you find a new heater that will provide the temperature control you need while lowering your utility bill.
+            </p>
             <p><strong>Speak with our HVAC contractor today to learn more about your heating options.</strong></p>
           </div>
           <div class="content-image">
@@ -45,7 +47,8 @@
           <div class="benefit-card">
             <div class="benefit-icon">💰</div>
             <h3>Lower Energy Bills</h3>
-            <p>Modern heating systems are far more energy-efficient than older models, helping you save on monthly utility costs</p>
+            <p>Modern heating systems are far more energy-efficient than older models, helping you save on monthly
+              utility costs</p>
           </div>
           <div class="benefit-card">
             <div class="benefit-icon">🌡️</div>
@@ -84,22 +87,26 @@
           <div class="process-step">
             <div class="step-number">1</div>
             <h3>Consultation & Assessment</h3>
-            <p>We'll assess your current system and home heating needs to recommend the best options for your budget and requirements</p>
+            <p>We'll assess your current system and home heating needs to recommend the best options for your budget and
+              requirements</p>
           </div>
           <div class="process-step">
             <div class="step-number">2</div>
             <h3>System Selection</h3>
-            <p>We'll help you choose a heating system that suits your needs, explaining the benefits of different models and brands</p>
+            <p>We'll help you choose a heating system that suits your needs, explaining the benefits of different models
+              and brands</p>
           </div>
           <div class="process-step">
             <div class="step-number">3</div>
             <h3>Professional Installation</h3>
-            <p>Our experienced technicians will complete the installation quickly and efficiently, ensuring everything works perfectly</p>
+            <p>Our experienced technicians will complete the installation quickly and efficiently, ensuring everything
+              works perfectly</p>
           </div>
           <div class="process-step">
             <div class="step-number">4</div>
             <h3>Testing & Training</h3>
-            <p>We'll test your new system thoroughly and show you how to operate it for optimal performance and comfort</p>
+            <p>We'll test your new system thoroughly and show you how to operate it for optimal performance and comfort
+            </p>
           </div>
         </div>
       </div>
@@ -110,9 +117,10 @@
       <div class="container">
         <div class="support-content">
           <h2>Not Sure What Heater to Install?</h2>
-          <p>If your old heater has broken down or you're looking to improve the functionality of your system, give our 
-            heating contractor a call. We'll explain your options and help you find a heater that suits your needs while 
-            matching your budget. Once you make your choice, we'll complete the heating installation as quickly as possible.</p>
+          <p>If your old heater has broken down or you're looking to improve the functionality of your system, give our
+            heating contractor a call. We'll explain your options and help you find a heater that suits your needs while
+            matching your budget. Once you make your choice, we'll complete the heating installation as quickly as
+            possible.</p>
           <div class="support-stats">
             <div class="stat">
               <div class="stat-number">10+</div>

@@ -13,7 +13,8 @@
           <a href="https://g.page/SierraVistaPlumbingINC?share" target="_blank" rel="noopener" class="btn btn-primary">
             Read Our Top Reviews
           </a>
-          <a href="https://g.page/SierraVistaPlumbingINC?share" target="_blank" rel="noopener" class="btn btn-secondary">
+          <a href="https://g.page/SierraVistaPlumbingINC?share" target="_blank" rel="noopener"
+            class="btn btn-secondary">
             Leave a Review on Google
           </a>
         </div>

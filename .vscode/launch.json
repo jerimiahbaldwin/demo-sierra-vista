@@ -7,13 +7,15 @@
       "name": "Launch Vue Dev Server",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev"],
+      "cwd": "${workspaceFolder}",
       "serverReadyAction": {
-        "pattern": "Local:.+(https?://[^\\s]+)",
+        "pattern": "Local:\\s+(https?://\\S+)",
         "uriFormat": "%s",
         "action": "openExternally"
       },
       "console": "integratedTerminal",
-      "internalConsoleOptions": "neverOpen"
+      "internalConsoleOptions": "neverOpen",
+      "skipFiles": ["<node_internals>/**"]
     },
     {
       "type": "chrome",

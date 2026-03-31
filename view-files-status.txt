@@ -1,0 +1,29 @@
+VIEW FILES STATUS
+Generated: March 30, 2026
+
+Total: 17 files
+Populated: 8
+Placeholders: 9
+
+POPULATED FILES
+
+AirConditioningInstallation.vue
+DuctCleaning.vue
+FAQ.vue
+Gallery.vue
+GreasePumping.vue
+HeatingRepair.vue
+Home.vue
+PlumbingServices.vue
+
+PLACEHOLDER FILES
+
+AirConditioningRepair.vue
+AirConditioningServices.vue
+Contact.vue
+DryerVentCleaning.vue
+HeatingInstallation.vue
+HeatingMaintenance.vue
+HeatingServices.vue
+Reviews.vue
+ServiceArea.vue

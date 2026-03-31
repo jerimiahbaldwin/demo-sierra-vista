@@ -18,11 +18,11 @@ PlumbingServices.vue
 
 PLACEHOLDER FILES
 
-AirConditioningRepair.vue
+AirConditioningRepair.vue (in progress - claimed by AI Agent)
 AirConditioningServices.vue
 Contact.vue
 DryerVentCleaning.vue
-HeatingInstallation.vue
+HeatingInstallation.vue (in progress - claimed by AI Agent)
 HeatingMaintenance.vue
 HeatingServices.vue
 Reviews.vue

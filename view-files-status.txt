@@ -2,8 +2,8 @@ VIEW FILES STATUS
 Generated: March 30, 2026
 
 Total: 17 files
-Populated: 8
-Placeholders: 9
+Populated: 9
+Placeholders: 8
 
 POPULATED FILES
 
@@ -12,6 +12,7 @@ DuctCleaning.vue
 FAQ.vue
 Gallery.vue
 GreasePumping.vue
+HeatingInstallation.vue
 HeatingRepair.vue
 Home.vue
 PlumbingServices.vue
@@ -22,7 +23,6 @@ AirConditioningRepair.vue (in progress - claimed by AI Agent)
 AirConditioningServices.vue
 Contact.vue
 DryerVentCleaning.vue
-HeatingInstallation.vue (in progress - claimed by AI Agent)
 HeatingMaintenance.vue
 HeatingServices.vue
 Reviews.vue

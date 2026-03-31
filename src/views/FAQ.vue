@@ -1,5 +1,4 @@
 <template>
-  <template>
   <div>
     <!-- Hero Section -->
     <section class="hero-inner">

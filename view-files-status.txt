@@ -8,7 +8,7 @@ FAQ.vue - populated
 Gallery.vue - populated
 GreasePumping.vue - populated
 HeatingInstallation.vue - populated
-HeatingMaintenance.vue - needs content
+HeatingMaintenance.vue - in progress (claimed by AI agent)
 HeatingRepair.vue - populated
 HeatingServices.vue - needs content
 Home.vue - populated
